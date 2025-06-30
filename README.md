@@ -37,3 +37,4 @@ Generalizes well for unseen data
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/339c5532-a085-42e7-8d50-da7ec34feb6e)
